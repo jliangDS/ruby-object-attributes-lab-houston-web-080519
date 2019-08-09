@@ -19,5 +19,8 @@ class Dog
 end 
 
 class Person 
-
+  
+  def name 
+  
+end 
 end 
