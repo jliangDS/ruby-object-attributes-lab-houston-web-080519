@@ -21,6 +21,6 @@ end
 class Person 
   
   def name 
-  
-end 
+    @name 
+  end 
 end 
