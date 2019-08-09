@@ -25,4 +25,6 @@ class Person
   end 
   
   def name=(new_name)
+    
+  end 
 end 
